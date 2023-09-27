@@ -29,3 +29,4 @@ def power2nD(n):
     return fib[n]
 
 print(power2nD(4))
+#此作業是經由111010529顏瑋成同學教導後自行理解所完成
