@@ -50,4 +50,5 @@ result_params = gradient_descent_numeric(target_function, initial_parameters)
 
 print("Optimal parameters:", result_params)
 print("Minimum value of the function:", target_function(result_params))
+
 # 此作業是參考GPT給出的答案後，經理解所完成
